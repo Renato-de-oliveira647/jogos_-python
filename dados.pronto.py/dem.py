@@ -1,6 +1,7 @@
+import design
+
 import random  #importa a biblioteca random para gerar números aleatórios
 import os      #importa a biblioteca os para comandos do sistema operacional
-
 
 import design    #importa o módulo design para elementos visuais (assumindo que exista)
 
